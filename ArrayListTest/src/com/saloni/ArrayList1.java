@@ -16,6 +16,9 @@ public class ArrayList1 {
 		while(itr.hasNext()) {
 			System.out.println(itr.next());
 		}
+		for(String s:list){
+		System.out.println(s)
+			}
 
 	}
 
