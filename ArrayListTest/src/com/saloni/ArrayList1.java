@@ -13,9 +13,7 @@ public class ArrayList1 {
 		list.add("kasim");
 		list.add("pavan");
 		Iterator<String> itr = list.iterator();
-		while(itr.hasNext()) {
-			System.out.println(itr.next());
-		}
+		
 		for(String s:list){
 		System.out.println(s)
 			}
